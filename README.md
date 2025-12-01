@@ -9,7 +9,7 @@
 
 ## Om spillet
 
-Forest Orbs er et "firstperson" utforskingsspill, hvor spilleren utforsker en mystisk skog. Målet med spillet er å lyse opp 20 svevende orbs ved å lyse på dem med lommelykt. I skogen er det nysgjerrige spøkelser som jager spilleren hvis de kommer for nærme. Spillet er en vri på tradisjonelle skytespillmekanikker, uten kamp eller vold.
+Forest Orbs er et "firstperson" utforskingsspill, hvor spilleren utforsker en mystisk skog. Målet med spillet er å lyse opp 20 svevende orbs ved å lyse på dem med lommelykt. I skogen er det nysgjerrige spøkelser som jager spilleren hvis de kommer for nærme. Spillet er en vri på tradisjonelle skytespillmekanikker, uten vold.
 
 ## Hovedfunksjoner
 
