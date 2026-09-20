@@ -6,7 +6,7 @@ Forest Orbs er et firstperson utforskingsspill, hvor spilleren kan utforske en m
 
 Spillet ble utviklet som del av vår eksamensoppgave i emnet PG2202 Unity-utvikling, ved Høyskolen Kristiania våren 2025. Oppgaven var å utvikle et 3D-spill i Unity, og det ble lagt vekt på interaktivitet og teknisk gjennomføring. Innleveringen skulle vise vår forståelse for spillutviklingsprosessen, og ferdigheter innen spilldesign og programmering.
 
-**Prøv spillet her:** https://sigurdpj.github.io/Eksamen-unity-utvikling
+**Prøv spillet her:** https://sigurdpj.github.io/unity-utvikling-eksamen
 
 <br>
 
