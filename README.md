@@ -1,4 +1,4 @@
-# Forest Orbs
+# Forest Orbs 🟡🌳
 
 **Utviklet av Amalie Sanchez Ulriksen og Sigurd Putney Jongers**
 
